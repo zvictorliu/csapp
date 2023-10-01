@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zvictorliu.github.io/csapp/data_reprenstation/integer/</loc>
+  </url><url>
     <loc>https://zvictorliu.github.io/csapp/categories/</loc>
+  </url><url>
+    <loc>https://zvictorliu.github.io/csapp/data_reprenstation/</loc>
   </url><url>
     <loc>https://zvictorliu.github.io/csapp/tags/</loc>
   </url><url>
